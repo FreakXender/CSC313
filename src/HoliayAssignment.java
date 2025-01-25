@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author Gerald Kaile
+ * @author Elochukwu Delight
  */
 public class HoliayAssignment {
     public static void numberOneA(){
